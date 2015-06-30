@@ -1,0 +1,9 @@
+Package: stc 
+Version: 0.6.0
+Architecture: amd64
+Maintainer: Basheer Subei <basheersubei@gmail.com>
+Depends: ant (>= 1.7.0)
+Section: unknown
+Priority: extra
+Homepage: http://swift-lang.org/Swift-T 
+Description: Swift Turbine Compiler, a compiler for Swift/T code.

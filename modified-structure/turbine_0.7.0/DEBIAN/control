@@ -1,0 +1,9 @@
+Package: turbine
+Version: 0.7.0
+Architecture: amd64
+Maintainer: Basheer Subei <basheersubei@gmail.com>
+Depends: libc6 (>= 2.14), tcl8.6 (>= 8.6.0), mpich2 (>= 1.4.1), exm-c-utils (>= 0.4.0), adlb-x (>= 0.6.0)
+Section: unknown
+Priority: extra
+Homepage: http://swift-lang.org/Swift-T 
+Description: High-Performance MPI-based execution engine for Swift/T.
