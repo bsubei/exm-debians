@@ -1,0 +1,4 @@
+PREFIX: /usr/bin/swift-t/turbine
+SOURCE: /home/basheersubei/swift-t/turbine/code
+DATE:   06/30/2015 03:32PM
+/bin/sh: 1: svn: not found
