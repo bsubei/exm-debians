@@ -1,0 +1,14 @@
+### Commented entries have reasonable defaults.
+### Uncomment to edit them.
+# Source: <source package name; defaults to package name>
+Section: misc
+Priority: optional
+# Homepage: <enter URL here; no default>
+Standards-Version: 3.9.2
+
+Package: swift-t
+Version: 0.8.0
+Maintainer: Basheer Subei <basheersubei@gmail.com>
+Depends: exm-c-utils (>= 0.4.0), adlb-x (>= 0.6.0), turbine (>= 0.7.0), stc (>= 0.6.0)
+Architecture: amd64
+Description: Required packages to run Swift/T, a massively parallel scripting language. 
