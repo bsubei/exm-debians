@@ -1,0 +1,2 @@
+# README for swift-t deb packages
+These deb packages will install the necessary files in `/usr/bin/swift-t` and some shared libraries in `/usr/lib`. They also add a few lines into the `/etc/profile` file to export the paths to the binaries to the $PATH environment variable. Make sure you source the `/etc/profile` for the current shell session after installing these deb packages. When you remove the packages (using `apt-get remove` or something), these export lines will be removed from `/etc/profile` automatically.

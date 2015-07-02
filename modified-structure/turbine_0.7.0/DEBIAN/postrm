@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+    remove)
+        # remove turbine binary from PATH
+        sed -i 's#export PATH=$PATH:/usr/bin/swift-t/turbine/bin##g' /etc/profile
+	;;
+esac
+
+#DEBHELPER#
+
+exit 0
