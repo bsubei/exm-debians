@@ -2,7 +2,7 @@ Package: stc
 Version: 0.6.0
 Architecture: amd64
 Maintainer: Basheer Subei <basheersubei@gmail.com>
-Depends: ant (>= 1.7.0)
+Depends: ant (>= 1.7.0), zsh
 Section: unknown
 Priority: extra
 Homepage: http://swift-lang.org/Swift-T 
