@@ -13,7 +13,7 @@ There is one meta-package named `swift-t_0.8.0`, and it simply depends on (and i
 Try one of the two methods:
 
 1- Using `apt-get`
-* Add swift-t to your sources (TODO), then run `sudo apt-get update`.
+* Add swift-t to your [sources](http://askubuntu.com/questions/170348/how-to-make-my-own-local-repository) (TODO), then run `sudo apt-get update`.
 * Run `sudo apt-get install swift-t` to install all the four required packages and their dependencies.
 
 2- Download .deb packages

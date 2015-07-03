@@ -2,7 +2,7 @@ Package: exm-c-utils
 Version: 0.4.0
 Architecture: amd64
 Maintainer: Basheer Subei <basheersubei@gmail.com>
-Depends: libc6 (>= 2.14), mpich2 (>= 1.4.1) 
+Depends: libc6 (>= 2.14), mpich (>= 3.0.4) 
 Section: unknown
 Priority: extra
 Homepage: http://swift-lang.org/Swift-T 
