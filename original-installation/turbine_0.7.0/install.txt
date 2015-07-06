@@ -1,4 +1,0 @@
-PREFIX: /home/basheersubei/exm-install/turbine
-SOURCE: /home/basheersubei/swift-t/turbine/code
-DATE:   06/30/2015 02:07PM
-/bin/sh: 1: svn: not found
